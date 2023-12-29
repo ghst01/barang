@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/userMenu"
+        android:title="User" />
+    <item
+        android:id="@+id/suplierMenu"
+        android:title="Suplier" />
+    <item
+        android:id="@+id/barangMenu"
+        android:title="Barang" />
+    <item
+        android:id="@+id/penerimaanBarangMenu"
+        android:title="Penerimaan Barang" />
+    <item
+        android:id="@+id/pengeluaranBarangMenu"
+        android:title="Pengeluaran Barang" />
+    <item
+        android:id="@+id/permintaanBarangMenu"
+        android:title="Permintaan Barang" />
+    <item
+        android:id="@+id/rencanaOrderMenu"
+        android:title="Rencana Order" />
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+</menu>
